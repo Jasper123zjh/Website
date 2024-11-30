@@ -10,6 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
+  //刚刚修改的
   base: './',
   resolve: {
     alias: {
